@@ -38,9 +38,10 @@ print("Word Count in file =",count)
 
 
 ### OUTPUT:
+![Screenshot from 2022-10-06 11-38-17](https://user-images.githubusercontent.com/113497333/194227481-968ed892-4128-4f37-bbd4-ca236a320d5d.png)
 
+![Screenshot from 2022-10-06 11-38-25](https://user-images.githubusercontent.com/113497333/194227534-3cb4347d-388f-4900-a497-3d02aa241673.png)
 
-![zia file](https://user-images.githubusercontent.com/113497340/194223216-a8af6726-081f-4fb3-a4ee-6719d43ad92f.png)
 
 
 
